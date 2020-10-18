@@ -28,6 +28,24 @@ $carousel-item-height: 300px;
     @include zero-margin(20px, 0px);
 }
 
+.modal-header {
+    background-color: $background-dark;
+    color: floralwhite;
+
+    button {
+        color: floralwhite;
+    }
+
+}
+
+.modal-body {
+    background-color: $background-pale;
+}
+
+#loginButton {
+    cursor: pointer;
+}
+
 .jumbotron {
     @include zero-margin(70px,30px);
     background: $background-light ;

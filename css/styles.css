@@ -13,6 +13,18 @@
   margin: 0px auto;
   padding: 20px 0px; }
 
+.modal-header {
+  background-color: #512DA8;
+  color: floralwhite; }
+  .modal-header button {
+    color: floralwhite; }
+
+.modal-body {
+  background-color: #D1C4E9; }
+
+#loginButton {
+  cursor: pointer; }
+
 .jumbotron {
   margin: 0px auto;
   padding: 70px 30px;
